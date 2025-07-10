@@ -1,2 +1,0 @@
-hello...this is a test file 3
-this is created from git bash command line and need to be pushed to the master branch
